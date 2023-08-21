@@ -1,0 +1,2 @@
+b)
+flask is more easier to use and light weight . To make light weight web app flask is better tha django. Django is used to make complex web app. 
